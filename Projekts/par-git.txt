@@ -1,0 +1,2 @@
+Versiju kontrole ir dažādu projekta versiju saglabāšana un pārslēgšanās starp tām.
+Git ir versiju kontrolétájs un saglabátájs, bet GitHub ir pakalpojums ar Git integráciju, kas augšupielādē versijas uz GitHub serveriem.
